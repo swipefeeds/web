@@ -1,0 +1,259 @@
+SWIPEFEED
+KEBIJAKAN PRIVASI (PRIVACY POLICY)
+
+Terakhir diperbarui: 14 November 2026
+
+SwipeFeed menghargai privasi pengguna dan berkomitmen untuk menjaga informasi yang digunakan selama pengguna mengakses dan menggunakan aplikasi.
+
+Kebijakan Privasi ini menjelaskan jenis informasi yang digunakan, bagaimana informasi tersebut disimpan dan diproses, layanan pihak ketiga yang terlibat, serta pilihan yang tersedia bagi pengguna dalam mengelola informasi mereka.
+
+Dengan menggunakan SwipeFeed, pengguna dianggap telah membaca dan memahami Kebijakan Privasi ini.
+
+1. TENTANG SWIPEFEED
+SwipeFeed adalah aplikasi pembaca RSS dan platform penemuan konten (RSS Reader and Content Discovery Platform) yang membantu pengguna menemukan, menjelajahi, dan mengakses berita serta informasi dari berbagai sumber di internet.
+
+Aplikasi mengambil informasi melalui RSS/Atom Feed dan mekanisme penemuan informasi dari website penerbit.
+
+SwipeFeed juga menyediakan fitur profil, personalisasi konten, penyimpanan artikel, komentar, notifikasi, dan sinkronisasi data melalui Google Drive.
+
+SwipeFeed tidak mewajibkan pengguna membuat akun pada server SwipeFeed untuk menggunakan fungsi dasar membaca RSS.
+
+2. INFORMASI YANG DIGUNAKAN
+SwipeFeed dapat menggunakan beberapa jenis informasi berikut untuk menjalankan fitur aplikasi.
+
+2.1 INFORMASI PROFIL
+Pengguna dapat memasukkan informasi profil seperti:
+- Nama pengguna.
+- Jenis kelamin.
+- Tahun lahir.
+- Negara.
+
+Informasi tersebut digunakan untuk mendukung pengelolaan profil dan penyesuaian pengalaman penggunaan aplikasi.
+
+Informasi profil disimpan secara lokal pada perangkat. Berdasarkan implementasi aplikasi, nama, jenis kelamin, tahun lahir, dan negara juga dapat disertakan dalam data sinkronisasi apabila pengguna mengaktifkan Google Drive Sync.
+
+Foto profil yang berasal dari Google disimpan sebagai informasi lokal dan tidak dimasukkan ke dalam data sinkronisasi aplikasi.
+
+2.2 INFORMASI GOOGLE ACCOUNT
+Apabila pengguna menghubungkan Google Drive, SwipeFeed menggunakan layanan otorisasi Google untuk mendapatkan akses yang diperlukan.
+
+Informasi yang dapat diperoleh dari Google meliputi:
+- Google Account ID.
+- Alamat email Google.
+- Status verifikasi alamat email.
+- URL foto profil Google.
+
+Informasi tersebut digunakan untuk mendukung identifikasi akun Google yang terhubung dan pengelolaan fitur sinkronisasi.
+
+Informasi Google tersebut disimpan secara lokal oleh aplikasi dan tidak dimasukkan ke dalam berkas sinkronisasi SwipeFeed.
+
+SwipeFeed tidak meminta kata sandi Google pengguna.
+
+2.3 INFORMASI AKTIVITAS DAN PERSONALISASI
+Untuk memberikan pengalaman membaca yang lebih relevan, SwipeFeed menyimpan informasi aktivitas penggunaan, seperti:
+- Topik yang dipilih dan diikuti.
+- Sumber RSS yang diikuti.
+- Artikel yang disimpan.
+- Artikel yang disukai.
+- Riwayat artikel yang telah dibuka.
+- Interaksi pengguna terhadap artikel dan sumber berita.
+- Preferensi dan pengaturan personalisasi.
+
+Informasi tersebut digunakan oleh sistem personalisasi untuk menyesuaikan rekomendasi artikel dan mengatur konten yang ditampilkan.
+
+Pemrosesan personalisasi tersebut dilakukan secara lokal pada perangkat.
+
+2.4 INFORMASI TEKNIS DAN ANALITIK
+SwipeFeed menggunakan Firebase Analytics untuk mengukur interaksi tertentu dengan aplikasi, termasuk aktivitas ketika pengguna membuka tautan menuju konten eksternal.
+
+Pada pengukuran klik keluar yang diterapkan secara khusus oleh SwipeFeed, informasi yang dikirim meliputi:
+- Jenis tujuan tautan.
+- Nama host atau domain tujuan.
+- Jenis konten.
+- Metode pembukaan tautan.
+
+SwipeFeed tidak memasukkan URL artikel lengkap atau judul artikel sebagai parameter pada event analitik klik keluar tersebut.
+
+Firebase Analytics dan layanan Google terkait juga dapat mengumpulkan informasi teknis, diagnostik, penggunaan aplikasi, dan pengenal perangkat atau aplikasi sesuai mekanisme serta kebijakan layanan masing-masing.
+
+3. CARA INFORMASI DIGUNAKAN
+Informasi yang digunakan oleh SwipeFeed memiliki tujuan sebagai berikut:
+- Menyediakan dan menjalankan fungsi utama aplikasi.
+- Mengelola profil dan preferensi pengguna.
+- Menyesuaikan rekomendasi artikel berdasarkan minat pengguna.
+- Menyimpan artikel yang disukai dan ditandai untuk dibaca kembali.
+- Menyediakan fitur sinkronisasi data antarperangkat melalui Google Drive.
+- Menampilkan notifikasi dan pengumuman aplikasi.
+- Mengukur interaksi tertentu untuk membantu evaluasi dan peningkatan aplikasi.
+- Menjalankan fitur komentar dan navigasi menuju sumber berita asli.
+
+SwipeFeed tidak bermaksud menjual informasi pribadi pengguna kepada pihak ketiga.
+
+4. PENYIMPANAN DATA LOKAL
+Sebagian besar informasi penggunaan SwipeFeed disimpan secara lokal pada perangkat pengguna, termasuk:
+- Informasi profil.
+- Preferensi bahasa dan tampilan.
+- Sumber RSS yang diikuti.
+- Topik pilihan.
+- Artikel tersimpan dan disukai.
+- Riwayat membaca.
+- Data personalisasi.
+- Pengaturan aplikasi.
+
+Penyimpanan lokal memungkinkan sebagian fungsi aplikasi tetap tersedia tanpa harus mengirim seluruh informasi aktivitas pengguna ke server SwipeFeed.
+
+Penghapusan data aplikasi melalui pengaturan perangkat atau pencopotan aplikasi dapat menghapus data lokal, tetapi tidak otomatis menghapus salinan yang sebelumnya telah disinkronisasikan ke Google Drive atau data yang dikelola oleh layanan pihak ketiga.
+
+5. GOOGLE DRIVE CLOUD SYNC
+SwipeFeed menyediakan fitur sinkronisasi opsional menggunakan Google Drive.
+
+Fitur ini hanya berjalan setelah pengguna memberikan otorisasi Google yang diperlukan.
+
+Ketika sinkronisasi diaktifkan, data yang dapat dikirim ke Google Drive meliputi:
+- Topik yang dipilih.
+- Preferensi dan bobot personalisasi.
+- Sumber RSS yang diikuti.
+- Topik khusus yang dibuat pengguna.
+- Informasi profil berupa nama, jenis kelamin, tahun lahir, dan negara.
+- Artikel yang disimpan.
+- Artikel yang disukai.
+- Metadata artikel.
+- Riwayat membaca.
+- Pengaturan tampilan dan bahasa.
+- Pengaturan interval pembaruan RSS.
+- Informasi sinkronisasi dan penghapusan data.
+
+Data disimpan pada area penyimpanan aplikasi (appDataFolder) milik Google Drive, menggunakan akses khusus yang diminta oleh SwipeFeed.
+
+Sinkronisasi dimaksudkan untuk membantu pengguna memulihkan dan menyelaraskan data ketika menggunakan SwipeFeed pada perangkat lain.
+
+Pengguna dapat memutuskan koneksi Google Drive melalui pengaturan aplikasi. Setelah koneksi diputus, sinkronisasi berikutnya tidak akan dilakukan sampai pengguna menghubungkannya kembali.
+
+Memutus koneksi tidak otomatis menghapus data yang sebelumnya telah tersimpan di Google Drive.
+
+Penggunaan Google Drive tunduk pada Kebijakan Privasi dan ketentuan layanan Google.
+
+6. RSS FEEDS DAN WEBSITE PIHAK KETIGA
+SwipeFeed mengakses sumber berita melalui RSS/Atom Feed dan mekanisme penemuan informasi dari website.
+
+Dalam proses tersebut, aplikasi dapat melakukan permintaan jaringan ke:
+- Server konfigurasi SwipeFeed.
+- Penyedia RSS/Atom Feed.
+- Website penerbit berita.
+- Server penyedia gambar atau media.
+- Layanan eksternal yang digunakan oleh sumber konten.
+
+Ketika aplikasi mengambil informasi dari suatu website, penyedia website tersebut dapat menerima informasi teknis yang secara normal terkait dengan permintaan jaringan, seperti alamat IP, informasi koneksi, dan metadata permintaan.
+
+Informasi dan kebijakan privasi yang berlaku pada website tersebut berada di bawah tanggung jawab masing-masing penyedia.
+
+Ketika pengguna membuka artikel, SwipeFeed mengarahkan pengguna ke website atau platform asli penerbit melalui browser atau Custom Tabs.
+
+Setelah pengguna meninggalkan SwipeFeed, aktivitas penjelajahan dan informasi yang diberikan pada website tersebut tunduk pada kebijakan privasi penerbit yang bersangkutan.
+
+7. FITUR KOMENTAR
+SwipeFeed menyediakan fitur komentar melalui layanan eksternal yang dioperasikan menggunakan infrastruktur Cloudflare.
+
+Ketika pengguna membuka halaman komentar dari suatu artikel, aplikasi meneruskan informasi berikut melalui tautan menuju layanan komentar:
+- URL artikel.
+- Judul artikel.
+- Nama profil pengguna.
+
+Informasi tersebut digunakan untuk menghubungkan halaman komentar dengan artikel yang sedang dibuka dan menampilkan nama pengguna.
+
+Apabila pengguna mengirim komentar, informasi yang dimasukkan pada layanan komentar akan diproses oleh layanan komentar sesuai mekanisme yang berlaku pada layanan tersebut.
+
+Layanan komentar dapat menggunakan teknologi keamanan seperti Cloudflare Turnstile untuk membantu mencegah penyalahgunaan dan aktivitas otomatis.
+
+Pemrosesan komentar, informasi teknis permintaan, laporan komentar, dan informasi lain yang dikumpulkan oleh layanan komentar tunduk pada kebijakan serta pengelolaan layanan komentar yang bersangkutan.
+
+Untuk pertanyaan atau permintaan terkait komentar, pengguna dapat menghubungi pengelola SwipeFeed melalui alamat kontak yang tersedia dalam kebijakan ini.
+
+8. FIREBASE DAN LAYANAN GOOGLE
+SwipeFeed menggunakan beberapa layanan Google Firebase untuk mendukung operasional aplikasi.
+
+FIREBASE ANALYTICS
+Digunakan untuk mengukur interaksi tertentu dengan aplikasi dan membantu evaluasi penggunaan fitur.
+
+FIREBASE CLOUD MESSAGING (FCM)
+Digunakan untuk mengirim notifikasi dan pengumuman aplikasi ke perangkat pengguna.
+
+Aplikasi menggunakan mekanisme berlangganan topik notifikasi untuk mengelompokkan penerima pengumuman, termasuk berdasarkan kategori pengguna yang tersedia.
+
+FIREBASE FIRESTORE
+Digunakan untuk mengambil informasi pengumuman atau notifikasi yang disediakan untuk aplikasi.
+
+Layanan Google dan Firebase dapat memproses informasi teknis sesuai mekanisme masing-masing layanan.
+
+Informasi lebih lanjut dapat dibaca melalui:
+- https://policies.google.com/privacy
+- https://firebase.google.com/support/privacy
+
+9. PEMBAGIAN INFORMASI KEPADA PIHAK KETIGA
+SwipeFeed tidak menjual informasi pribadi pengguna.
+
+Informasi dapat diproses atau diteruskan kepada penyedia layanan pihak ketiga sejauh diperlukan untuk menjalankan fungsi aplikasi, antara lain:
+- Google untuk autentikasi dan sinkronisasi Google Drive.
+- Firebase untuk analitik, notifikasi, dan pengambilan pengumuman.
+- Penyedia RSS dan website penerbit untuk mengambil informasi artikel.
+- Cloudflare dan layanan komentar untuk menjalankan fitur komentar.
+- Penyedia browser atau Custom Tabs untuk membuka tautan eksternal.
+
+Setiap penyedia layanan pihak ketiga memiliki kebijakan dan ketentuan privasi masing-masing.
+
+SwipeFeed tidak mengendalikan sepenuhnya cara pihak ketiga mengelola informasi yang mereka terima.
+
+10. KEAMANAN INFORMASI
+SwipeFeed menerapkan langkah-langkah teknis yang tersedia dalam implementasi aplikasi untuk membantu menjaga informasi pengguna.
+
+Data aplikasi disimpan melalui mekanisme penyimpanan lokal Android dan database lokal.
+
+Akses Google Drive menggunakan mekanisme otorisasi Google, bukan dengan meminta kata sandi Google secara langsung.
+
+Meskipun demikian, tidak ada metode penyimpanan atau transmisi elektronik yang dapat dijamin sepenuhnya bebas dari risiko keamanan.
+
+Pengguna juga disarankan untuk menjaga keamanan perangkat dan akun Google yang digunakan untuk sinkronisasi.
+
+11. PENYIMPANAN DAN RETENSI INFORMASI
+Informasi lokal disimpan selama diperlukan untuk menjalankan fungsi aplikasi atau sampai pengguna menghapus data aplikasi.
+
+Data sinkronisasi dapat tetap tersimpan di Google Drive setelah pengguna memutus koneksi, sampai salinan tersebut dihapus melalui mekanisme yang tersedia pada layanan Google.
+
+Informasi yang dikelola Firebase, penyedia RSS, website penerbit, dan layanan komentar mengikuti kebijakan penyimpanan masing-masing penyedia.
+
+Lama penyimpanan data pada layanan eksternal dapat berbeda-beda sesuai fungsi, konfigurasi, dan ketentuan penyedia layanan tersebut.
+
+12. HAK DAN PILIHAN PENGGUNA
+Pengguna memiliki pilihan untuk mengelola informasi yang digunakan oleh SwipeFeed, termasuk:
+- Mengubah informasi profil melalui pengaturan profil.
+- Mengubah preferensi topik dan sumber RSS.
+- Menghapus artikel tersimpan atau artikel yang disukai.
+- Mengubah pengaturan personalisasi.
+- Mengatur izin notifikasi melalui pengaturan perangkat.
+- Menghubungkan atau memutuskan Google Drive Sync.
+- Menghubungi pengelola untuk menyampaikan pertanyaan atau permintaan terkait privasi.
+
+Pengguna juga dapat mengelola akses aplikasi terhadap Google Account melalui pengaturan keamanan akun Google.
+
+Permintaan terkait data yang berada pada layanan pihak ketiga mungkin perlu diajukan langsung kepada penyedia layanan tersebut.
+
+13. PRIVASI ANAK
+SwipeFeed tidak secara khusus dirancang sebagai layanan yang ditujukan kepada anak-anak.
+
+Pengguna yang belum memenuhi batas usia yang ditentukan oleh hukum di wilayahnya harus menggunakan aplikasi sesuai ketentuan hukum yang berlaku dan dengan persetujuan orang tua atau wali apabila diwajibkan.
+
+14. PERUBAHAN KEBIJAKAN PRIVASI
+Kebijakan Privasi ini dapat diperbarui dari waktu ke waktu untuk menyesuaikan perubahan fitur aplikasi, layanan pihak ketiga, praktik pengelolaan informasi, maupun ketentuan hukum yang berlaku.
+
+Perubahan akan diinformasikan melalui aplikasi atau website resmi SwipeFeed apabila diperlukan.
+
+Tanggal pembaruan terakhir akan dicantumkan pada bagian awal dokumen.
+
+15. KONTAK
+Apabila pengguna memiliki pertanyaan, masukan, atau permintaan terkait Kebijakan Privasi dan pengelolaan informasi pribadi, pengguna dapat menghubungi pengelola SwipeFeed melalui:
+
+Nama Aplikasi: SwipeFeed
+Email: swipefeed.support@gmail.com
+Website: https://swipefeed.app
+
+Dengan menggunakan SwipeFeed, pengguna menyatakan telah membaca dan memahami Kebijakan Privasi ini.

@@ -1,0 +1,65 @@
+SWIPEFEED
+TERMS OF SERVICE
+
+Last updated: November 14, 2026
+
+Welcome to SwipeFeed. These Terms of Service govern your access to and use of the SwipeFeed application. By accessing or using SwipeFeed, you acknowledge that you have read, understood, and agree to these Terms. If you do not agree, please do not use the application.
+
+1. ABOUT SWIPEFEED
+SwipeFeed is an RSS reader and content discovery platform designed to help users discover, explore, and access information from websites and publishers across the internet. The app organizes information from RSS/Atom feeds and supported website-discovery features. Depending on what a source provides, displayed information may include article titles, summaries, descriptions, images, publication dates, publisher names, and links to original articles. SwipeFeed is a discovery and access tool; it is not the publisher or owner of third-party content.
+
+2. THIRD-PARTY CONTENT AND OWNERSHIP
+Content discovered or displayed through SwipeFeed may originate from publishers, media organizations, RSS providers, and other third parties. Copyrights, trademarks, intellectual property rights, and other ownership rights in that content remain with their respective authors, publishers, or rights holders. SwipeFeed does not claim ownership of third-party articles, text, photographs, illustrations, videos, logos, or other materials. Displaying content in SwipeFeed does not transfer ownership or rights to SwipeFeed.
+
+3. CONTENT USE AND FAIR USE
+SwipeFeed is intended to help users discover and access information through its original sources. To support this function, the app may display information and materials supplied through RSS/Atom feeds or obtained from publicly accessible website information, including titles, summaries, descriptions, metadata, images, and article links. Such use is intended to identify and help users navigate to the original material.
+
+SwipeFeed seeks to limit its use of third-party materials to what is relevant to content discovery. It does not intend to replace publishers’ websites, claim ownership of their content, or redistribute complete third-party works without the rights or permissions required. Any use of third-party materials must comply with applicable copyright laws, limitations and exceptions, licenses, and publisher terms.
+
+In the United States, certain uses may qualify as fair use under Section 107 of the Copyright Act. Fair use is assessed case by case by considering the purpose and character of the use, the nature of the copyrighted work, the amount and substantiality used, and the effect on the potential market or value of the original work. In Indonesia, use of third-party materials is also subject to Law No. 28 of 2014 on Copyright and other applicable rules.
+
+SwipeFeed does not represent that every use or display of third-party material automatically qualifies as fair use or another copyright exception. Attribution or a link to the original source does not, by itself, grant permission to use copyrighted material.
+
+4. LINKS TO ORIGINAL SOURCES
+SwipeFeed prioritizes the publisher’s original website or platform as the destination for accessing complete content. When a user chooses to open an article, the app directs the user to the original website address or link provided by the source. Users can read the complete article and access additional materials and services on the publisher’s platform. SwipeFeed does not intend to replace visits to publisher websites or prevent publishers from receiving traffic and benefits from their work. Reading and other activities after leaving SwipeFeed are subject to the third-party website’s own terms, privacy policy, and practices.
+
+5. RSS FEEDS AND WEBSITE EXTRACTION
+SwipeFeed provides features to discover, add, and read sources through RSS/Atom feeds and supported methods of discovering information from websites. Availability, completeness, format, update frequency, and content depend on each source. SwipeFeed does not guarantee that every source will always be available, accurate, complete, or updated consistently. The app is not designed to bypass authentication, CAPTCHA, paywalls, or access restrictions imposed by publishers. Users must respect the terms of use and access restrictions of each source.
+
+6. PUBLISHER RIGHTS AND CONTENT REQUESTS
+SwipeFeed respects the copyright, intellectual property rights, and interests of publishers and rights holders. A publisher, author, or rights holder who believes that their material is being used improperly may contact SwipeFeed to request a review. Requests may include stopping the retrieval or display of an RSS feed; removing a particular image or material; stopping the use of information or material from a website; reviewing a suspected copyright issue; or other requests concerning intellectual property rights.
+
+The SwipeFeed operator will review requests and may take appropriate action, including restricting or stopping the display of disputed material. A request should include the requester’s identity and authority, evidence of ownership or authorization where applicable, links to the material in question, and an explanation of the concern. Submission of a request does not guarantee removal before review.
+
+7. PERMITTED USE
+You may use SwipeFeed to discover and read information from news and other sources; add and manage RSS sources; configure topics and content preferences; save articles for later; use personalization features to tailor your reading experience; and open articles through their original source links.
+
+8. PROHIBITED USE
+You may not use SwipeFeed to violate laws or the rights of others; unlawfully copy, extract, or redistribute copyrighted content; use materials from SwipeFeed to create a service that replaces or imitates a publisher’s service without required rights or permission; attempt to circumvent security, authentication, or access restrictions imposed by third-party sources; interfere with, damage, or gain unauthorized access to SwipeFeed systems or services; or use the app in a way that violates these Terms or applicable law.
+
+9. THIRD-PARTY SERVICES
+SwipeFeed may use or connect to third-party services to support app functionality, including RSS providers, publisher websites, authentication services, cloud storage, and infrastructure providers. Your use of those services may be subject to their respective terms and policies. SwipeFeed does not control third-party operations, availability, policy changes, or the content they provide.
+
+10. SERVICE AVAILABILITY
+SwipeFeed is developed to provide a convenient experience for discovering and reading information. However, uninterrupted availability of all features, news sources, or services is not guaranteed. Features or services may be changed, maintained, restricted, or discontinued for maintenance, security, development, or operational reasons.
+
+11. DISCLAIMER
+Third-party information and content are made available based on information provided by their respective sources. SwipeFeed does not guarantee the accuracy, completeness, timeliness, or correctness of all third-party information. Responsibility for the content, opinions, statements, and materials published by a third party remains with that publisher or content owner. Users should verify information with the original source before relying on it for important decisions.
+
+12. LIMITATION OF LIABILITY
+To the extent permitted by applicable law, the SwipeFeed operator is not responsible for losses arising from inaccuracies or errors in third-party information; changes to, removal of, or unavailability of content on publisher websites; interruptions or policy changes by third-party providers; or a user’s reliance on information without checking its original source. Nothing in these Terms excludes or limits liability that cannot be excluded under applicable law.
+
+13. CHANGES TO THESE TERMS
+The SwipeFeed operator may update these Terms from time to time to reflect changes to app features, operations, or applicable legal requirements. Updates may be communicated through the app or other available official communication channels. Your continued use of SwipeFeed after updated Terms take effect constitutes acceptance of the updated Terms to the extent permitted by applicable law.
+
+14. GOVERNING LAW
+These Terms are interpreted under the laws of the Republic of Indonesia, without excluding mandatory legal protections that apply in other jurisdictions. The parties will first seek to resolve disputes relating to SwipeFeed through communication and good-faith discussion. If a dispute cannot be resolved in that way, it will be handled through the legal procedures available under applicable law.
+
+15. CONTACT
+For questions, reports, copyright concerns, or requests relating to third-party content, contact the SwipeFeed operator:
+
+App: SwipeFeed
+Email: swipefeed.support@gmail.com
+Website: https://swipefeed.app
+
+By using SwipeFeed, you acknowledge that you have read and understood these Terms of Service.

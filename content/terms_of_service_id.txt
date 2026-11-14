@@ -1,0 +1,65 @@
+SWIPEFEED
+KETENTUAN LAYANAN
+
+Terakhir diperbarui: 14 November 2026
+
+Selamat datang di SwipeFeed. Ketentuan Layanan ini mengatur akses dan penggunaan aplikasi SwipeFeed. Dengan mengakses atau menggunakan SwipeFeed, Anda menyatakan telah membaca, memahami, dan menyetujui Ketentuan ini. Jika tidak menyetujuinya, mohon untuk tidak menggunakan aplikasi.
+
+1. TENTANG SWIPEFEED
+SwipeFeed adalah aplikasi pembaca RSS dan platform penemuan konten yang membantu pengguna menemukan, menjelajahi, dan mengakses informasi dari berbagai website dan penerbit di internet. Aplikasi mengorganisasikan informasi dari RSS/Atom Feed dan fitur penemuan website yang didukung. Bergantung pada informasi yang disediakan sumber, tampilan dapat mencakup judul artikel, ringkasan, deskripsi, gambar, tanggal publikasi, nama penerbit, dan tautan ke artikel asli. SwipeFeed merupakan sarana penemuan dan akses informasi, bukan penerbit atau pemilik konten pihak ketiga.
+
+2. KONTEN PIHAK KETIGA DAN KEPEMILIKAN
+Konten yang ditemukan atau ditampilkan melalui SwipeFeed dapat berasal dari penerbit, organisasi media, penyedia RSS, dan pihak ketiga lainnya. Hak cipta, merek dagang, hak kekayaan intelektual, dan hak kepemilikan lainnya atas konten tersebut tetap menjadi milik pencipta, penerbit, atau pemegang hak masing-masing. SwipeFeed tidak mengklaim kepemilikan atas artikel, tulisan, foto, ilustrasi, video, logo, maupun materi lain milik pihak ketiga. Penayangan konten di SwipeFeed tidak mengalihkan kepemilikan atau hak atas konten tersebut kepada SwipeFeed.
+
+3. PENGGUNAAN KONTEN DAN PRINSIP PENGGUNAAN WAJAR
+SwipeFeed ditujukan untuk membantu pengguna menemukan dan mengakses informasi melalui sumber aslinya. Untuk mendukung fungsi tersebut, aplikasi dapat menampilkan informasi dan materi yang disediakan melalui RSS/Atom Feed atau diperoleh dari informasi website yang dapat diakses publik, termasuk judul, ringkasan, deskripsi, metadata, gambar, dan tautan artikel. Penggunaan tersebut dimaksudkan untuk mengenali konten dan membantu pengguna menuju materi aslinya.
+
+SwipeFeed berupaya membatasi penggunaan materi pihak ketiga pada hal-hal yang relevan untuk penemuan konten. SwipeFeed tidak bermaksud menggantikan website penerbit, mengklaim kepemilikan konten, atau mendistribusikan ulang karya pihak ketiga secara lengkap tanpa hak atau izin yang diperlukan. Setiap penggunaan materi pihak ketiga harus memperhatikan hukum hak cipta yang berlaku, pengecualian dan pembatasan hak cipta, lisensi, serta ketentuan penerbit.
+
+Di Amerika Serikat, penggunaan tertentu dapat memenuhi doktrin Fair Use sebagaimana diatur dalam Section 107 Copyright Act. Penilaiannya dilakukan berdasarkan kasus dengan mempertimbangkan tujuan dan karakter penggunaan, sifat karya berhak cipta, jumlah dan substansi bagian yang digunakan, serta dampaknya terhadap pasar potensial atau nilai karya asli. Di Indonesia, penggunaan materi pihak ketiga juga tunduk pada Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta dan ketentuan lain yang berlaku.
+
+SwipeFeed tidak menyatakan bahwa setiap penggunaan atau penayangan materi pihak ketiga otomatis memenuhi Fair Use atau pengecualian hak cipta lainnya. Pencantuman atribusi atau tautan ke sumber asli tidak dengan sendirinya memberikan izin untuk menggunakan materi berhak cipta.
+
+4. TAUTAN KE SUMBER ASLI
+SwipeFeed mengutamakan website atau platform asli penerbit sebagai tujuan untuk mengakses konten lengkap. Ketika pengguna memilih untuk membuka artikel, aplikasi akan mengarahkan pengguna ke alamat website atau tautan asli yang disediakan sumber tersebut. Pengguna dapat membaca artikel lengkap serta mengakses materi dan layanan tambahan melalui platform penerbit. SwipeFeed tidak bermaksud menggantikan kunjungan ke website penerbit atau menghalangi penerbit memperoleh kunjungan dan manfaat dari karya mereka. Aktivitas membaca dan aktivitas lainnya setelah pengguna meninggalkan SwipeFeed tunduk pada ketentuan, kebijakan privasi, dan praktik website pihak ketiga yang bersangkutan.
+
+5. RSS FEED DAN EKSTRAKSI WEBSITE
+SwipeFeed menyediakan fitur untuk menemukan, menambahkan, dan membaca sumber melalui RSS/Atom Feed serta metode penemuan informasi website yang didukung. Ketersediaan, kelengkapan, format, frekuensi pembaruan, dan isi informasi bergantung pada masing-masing sumber. SwipeFeed tidak menjamin bahwa setiap sumber akan selalu tersedia, akurat, lengkap, atau diperbarui secara konsisten. Aplikasi tidak dirancang untuk melewati autentikasi, CAPTCHA, paywall, atau pembatasan akses yang diterapkan penerbit. Pengguna wajib menghormati ketentuan penggunaan dan pembatasan akses dari setiap sumber.
+
+6. HAK PENERBIT DAN PERMINTAAN TERKAIT KONTEN
+SwipeFeed menghormati hak cipta, hak kekayaan intelektual, dan kepentingan penerbit serta pemegang hak. Penerbit, pencipta, atau pemegang hak yang merasa materinya digunakan secara tidak semestinya dapat menghubungi SwipeFeed untuk meminta peninjauan. Permintaan dapat mencakup penghentian pengambilan atau penayangan RSS Feed; penghapusan gambar atau materi tertentu; penghentian penggunaan informasi atau materi dari website; peninjauan dugaan pelanggaran hak cipta; atau permintaan lain terkait hak kekayaan intelektual.
+
+Pengelola SwipeFeed akan meninjau permintaan dan dapat mengambil tindakan yang sesuai, termasuk membatasi atau menghentikan penayangan materi yang dipermasalahkan. Permintaan sebaiknya menyertakan identitas dan kewenangan pemohon, bukti kepemilikan atau kuasa jika relevan, tautan materi yang dipermasalahkan, serta penjelasan keberatan. Pengajuan permintaan tidak menjamin penghapusan sebelum peninjauan dilakukan.
+
+7. PENGGUNAAN YANG DIPERBOLEHKAN
+Pengguna dapat menggunakan SwipeFeed untuk menemukan dan membaca informasi dari berbagai sumber berita; menambahkan dan mengelola sumber RSS; mengatur topik dan preferensi konten; menyimpan artikel untuk dibaca kembali; menggunakan fitur personalisasi untuk menyesuaikan pengalaman membaca; serta membuka artikel melalui tautan sumber aslinya.
+
+8. PENGGUNAAN YANG DILARANG
+Pengguna dilarang menggunakan SwipeFeed untuk melanggar hukum atau hak pihak lain; menyalin, mengambil, atau mendistribusikan ulang konten berhak cipta secara tidak sah; menggunakan materi dari SwipeFeed untuk membuat layanan yang menggantikan atau meniru layanan penerbit tanpa hak atau izin yang diperlukan; mencoba menghindari keamanan, autentikasi, atau pembatasan akses dari sumber pihak ketiga; mengganggu, merusak, atau memperoleh akses tanpa izin ke sistem atau layanan SwipeFeed; atau menggunakan aplikasi dengan cara yang melanggar Ketentuan ini maupun hukum yang berlaku.
+
+9. LAYANAN PIHAK KETIGA
+SwipeFeed dapat menggunakan atau terhubung dengan layanan pihak ketiga untuk mendukung fungsi aplikasi, termasuk penyedia RSS, website penerbit, layanan autentikasi, penyimpanan cloud, dan penyedia infrastruktur. Penggunaan layanan tersebut dapat tunduk pada ketentuan dan kebijakan masing-masing penyedia. SwipeFeed tidak mengendalikan operasional, ketersediaan, perubahan kebijakan, maupun konten yang disediakan pihak ketiga.
+
+10. KETERSEDIAAN LAYANAN
+SwipeFeed dikembangkan untuk memberikan pengalaman yang nyaman dalam menemukan dan membaca informasi. Namun, ketersediaan seluruh fitur, sumber berita, atau layanan tanpa gangguan tidak dijamin. Fitur atau layanan dapat diubah, dipelihara, dibatasi, atau dihentikan untuk pemeliharaan, keamanan, pengembangan, maupun alasan operasional.
+
+11. PENAFIAN
+Informasi dan konten pihak ketiga tersedia berdasarkan informasi yang diberikan oleh sumber masing-masing. SwipeFeed tidak menjamin keakuratan, kelengkapan, ketepatan waktu, atau kebenaran seluruh informasi pihak ketiga. Tanggung jawab atas isi, pendapat, pernyataan, dan materi yang diterbitkan pihak ketiga tetap berada pada penerbit atau pemilik konten yang bersangkutan. Pengguna dianjurkan memeriksa informasi melalui sumber asli sebelum mengandalkannya untuk mengambil keputusan penting.
+
+12. PEMBATASAN TANGGUNG JAWAB
+Sejauh diizinkan oleh hukum yang berlaku, pengelola SwipeFeed tidak bertanggung jawab atas kerugian yang timbul dari ketidakakuratan atau kesalahan informasi pihak ketiga; perubahan, penghapusan, atau ketidaktersediaan konten di website penerbit; gangguan atau perubahan kebijakan penyedia pihak ketiga; maupun ketergantungan pengguna pada informasi tanpa memeriksa sumber aslinya. Tidak ada bagian dari Ketentuan ini yang menghapus atau membatasi tanggung jawab yang tidak dapat dikecualikan berdasarkan hukum yang berlaku.
+
+13. PERUBAHAN KETENTUAN
+Pengelola SwipeFeed dapat memperbarui Ketentuan ini dari waktu ke waktu untuk menyesuaikan perubahan fitur aplikasi, operasional, atau persyaratan hukum yang berlaku. Pembaruan dapat diinformasikan melalui aplikasi atau saluran komunikasi resmi lainnya yang tersedia. Penggunaan SwipeFeed setelah Ketentuan yang diperbarui berlaku dianggap sebagai persetujuan terhadap pembaruan tersebut sepanjang diizinkan oleh hukum yang berlaku.
+
+14. HUKUM YANG BERLAKU
+Ketentuan ini ditafsirkan berdasarkan hukum Republik Indonesia, tanpa mengesampingkan perlindungan hukum wajib yang berlaku di yurisdiksi lain. Para pihak akan terlebih dahulu berupaya menyelesaikan perselisihan terkait SwipeFeed melalui komunikasi dan musyawarah dengan itikad baik. Jika perselisihan tidak dapat diselesaikan dengan cara tersebut, penyelesaian dilakukan melalui mekanisme hukum yang tersedia berdasarkan hukum yang berlaku.
+
+15. KONTAK
+Untuk pertanyaan, laporan, keberatan hak cipta, atau permintaan terkait konten pihak ketiga, hubungi pengelola SwipeFeed:
+
+Aplikasi: SwipeFeed
+Email: swipefeed.support@gmail.com
+Website: https://swipefeed.app
+
+Dengan menggunakan SwipeFeed, Anda menyatakan telah membaca dan memahami Ketentuan Layanan ini.

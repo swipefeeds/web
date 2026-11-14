@@ -1,0 +1,259 @@
+SWIPEFEED
+PRIVACY POLICY
+
+Last updated: November 14, 2026
+
+SwipeFeed respects user privacy and is committed to safeguarding the information used while users access and use the application.
+
+This Privacy Policy explains the types of information used, how that information is stored and processed, the third-party services involved, and the choices available to users for managing their information.
+
+By using SwipeFeed, you acknowledge that you have read and understood this Privacy Policy.
+
+1. ABOUT SWIPEFEED
+SwipeFeed is an RSS reader and content discovery platform that helps users discover, explore, and access news and information from various sources on the internet.
+
+The app retrieves information through RSS/Atom feeds and website information-discovery methods.
+
+SwipeFeed also provides profile, content personalization, article saving, comments, notifications, and Google Drive synchronization features.
+
+Users are not required to create an account on a SwipeFeed server to use the basic RSS-reading functionality.
+
+2. INFORMATION WE USE
+SwipeFeed may use the following types of information to operate its features.
+
+2.1 PROFILE INFORMATION
+Users may enter profile information such as:
+- Display name.
+- Gender.
+- Birth year.
+- Country.
+
+This information supports profile management and personalization of the app experience.
+
+Profile information is stored locally on the device. Under the app's implementation, the display name, gender, birth year, and country may also be included in synchronization data when the user enables Google Drive Sync.
+
+A Google profile photo is stored as local information and is not included in the app's synchronization data.
+
+2.2 GOOGLE ACCOUNT INFORMATION
+When a user connects Google Drive, SwipeFeed uses Google's authorization service to obtain the required access.
+
+Information that may be obtained from Google includes:
+- Google Account ID.
+- Google email address.
+- Email verification status.
+- Google profile photo URL.
+
+This information supports identification of the connected Google account and management of synchronization.
+
+This Google account information is stored locally by the app and is not included in the SwipeFeed synchronization file.
+
+SwipeFeed does not ask for the user's Google password.
+
+2.3 ACTIVITY AND PERSONALIZATION INFORMATION
+To provide a more relevant reading experience, SwipeFeed stores usage activity information such as:
+- Selected and followed topics.
+- Followed RSS sources.
+- Saved articles.
+- Liked articles.
+- History of opened articles.
+- User interactions with articles and news sources.
+- Personalization preferences and settings.
+
+This information is used by the personalization system to tailor article recommendations and organize displayed content.
+
+This personalization processing takes place locally on the device.
+
+2.4 TECHNICAL AND ANALYTICS INFORMATION
+SwipeFeed uses Firebase Analytics to measure certain interactions with the app, including activity when a user opens a link to external content.
+
+For SwipeFeed's specifically implemented outbound-click measurement, the information sent includes:
+- Link destination type.
+- Destination host or domain.
+- Content type.
+- Link-opening method.
+
+SwipeFeed does not include the full article URL or article title as parameters in that outbound-click analytics event.
+
+Firebase Analytics and related Google services may also collect technical, diagnostic, app-usage, and device or app identifier information according to their respective mechanisms and policies.
+
+3. HOW INFORMATION IS USED
+Information used by SwipeFeed serves the following purposes:
+- Providing and operating the app's core functions.
+- Managing user profiles and preferences.
+- Tailoring article recommendations based on user interests.
+- Saving liked and bookmarked articles for later reading.
+- Providing cross-device data synchronization through Google Drive.
+- Displaying app notifications and announcements.
+- Measuring certain interactions to help evaluate and improve the app.
+- Operating comment features and navigation to original news sources.
+
+SwipeFeed does not intend to sell users' personal information to third parties.
+
+4. LOCAL DATA STORAGE
+Most SwipeFeed usage information is stored locally on the user's device, including:
+- Profile information.
+- Language and appearance preferences.
+- Followed RSS sources.
+- Selected topics.
+- Saved and liked articles.
+- Reading history.
+- Personalization data.
+- App settings.
+
+Local storage allows some app functions to remain available without sending all user activity information to SwipeFeed servers.
+
+Clearing app data through device settings or uninstalling the app may remove local data, but does not automatically delete copies previously synchronized to Google Drive or data managed by third-party services.
+
+5. GOOGLE DRIVE CLOUD SYNC
+SwipeFeed provides an optional synchronization feature using Google Drive.
+
+This feature operates only after the user grants the required Google authorization.
+
+When synchronization is enabled, data that may be sent to Google Drive includes:
+- Selected topics.
+- Personalization preferences and weights.
+- Followed RSS sources.
+- User-created custom topics.
+- Profile information consisting of display name, gender, birth year, and country.
+- Saved articles.
+- Liked articles.
+- Article metadata.
+- Reading history.
+- Appearance and language settings.
+- RSS refresh interval settings.
+- Synchronization and deletion information.
+
+Data is stored in the appDataFolder area of the user's Google Drive, using the restricted access requested by SwipeFeed.
+
+Synchronization is intended to help users restore and synchronize data when using SwipeFeed on another device.
+
+Users can disconnect Google Drive through the app settings. After disconnection, subsequent synchronization will not occur until the user reconnects it.
+
+Disconnecting does not automatically delete data previously stored in Google Drive.
+
+Use of Google Drive is subject to Google's Privacy Policy and terms of service.
+
+6. RSS FEEDS AND THIRD-PARTY WEBSITES
+SwipeFeed accesses news sources through RSS/Atom feeds and website information-discovery methods.
+
+During this process, the app may make network requests to:
+- SwipeFeed configuration servers.
+- RSS/Atom feed providers.
+- News publisher websites.
+- Image or media hosting servers.
+- External services used by content sources.
+
+When the app retrieves information from a website, that website provider may receive technical information normally associated with a network request, such as IP address, connection information, and request metadata.
+
+The information and privacy practices applicable to those websites are the responsibility of their respective providers.
+
+When a user opens an article, SwipeFeed directs the user to the publisher's original website or platform through a browser or Custom Tabs.
+
+After the user leaves SwipeFeed, browsing activity and information provided on that website are subject to the publisher's own privacy policy.
+
+7. COMMENTS FEATURE
+SwipeFeed provides a comment feature through an external service operated using Cloudflare infrastructure.
+
+When a user opens the comment page for an article, the app passes the following information through the link to the comment service:
+- Article URL.
+- Article title.
+- User profile name.
+
+This information is used to associate the comment page with the article being viewed and to display the user's name.
+
+If a user submits a comment, the information entered into the comment service is processed by that service according to its operating mechanisms.
+
+The comment service may use security technologies such as Cloudflare Turnstile to help prevent abuse and automated activity.
+
+The processing of comments, technical request information, comment reports, and other information collected by the comment service is subject to the policies and management practices of that service.
+
+For questions or requests concerning comments, users may contact the SwipeFeed operator using the contact details in this policy.
+
+8. FIREBASE AND GOOGLE SERVICES
+SwipeFeed uses certain Google Firebase services to support app operations.
+
+FIREBASE ANALYTICS
+Used to measure certain interactions with the app and help evaluate feature usage.
+
+FIREBASE CLOUD MESSAGING (FCM)
+Used to deliver app notifications and announcements to user devices.
+
+The app uses notification topic subscriptions to group announcement recipients, including by available user categories.
+
+FIREBASE FIRESTORE
+Used to retrieve announcement or notification information provided to the app.
+
+Google and Firebase services may process technical information according to their respective mechanisms.
+
+More information is available at:
+- https://policies.google.com/privacy
+- https://firebase.google.com/support/privacy
+
+9. SHARING INFORMATION WITH THIRD PARTIES
+SwipeFeed does not sell users' personal information.
+
+Information may be processed by or transmitted to third-party service providers to the extent necessary to operate app features, including:
+- Google for authentication and Google Drive synchronization.
+- Firebase for analytics, notifications, and retrieving announcements.
+- RSS providers and publisher websites for retrieving article information.
+- Cloudflare and the comment service for operating the comments feature.
+- Browser or Custom Tabs providers for opening external links.
+
+Each third-party service provider has its own privacy policies and terms.
+
+SwipeFeed does not have full control over how third parties manage information they receive.
+
+10. INFORMATION SECURITY
+SwipeFeed applies technical measures available in the app's implementation to help protect user information.
+
+App data is stored using Android local-storage mechanisms and a local database.
+
+Google Drive access uses Google's authorization mechanism rather than requesting the user's Google password directly.
+
+However, no electronic storage or transmission method can be guaranteed to be completely free of security risks.
+
+Users are also encouraged to protect their devices and the Google accounts used for synchronization.
+
+11. INFORMATION STORAGE AND RETENTION
+Local information is retained for as long as needed to operate app functions or until the user clears app data.
+
+Synchronized data may remain in Google Drive after the user disconnects, until the copy is deleted through mechanisms available in Google's service.
+
+Information managed by Firebase, RSS providers, publisher websites, and the comment service is subject to each provider's retention policies.
+
+Retention periods on external services may vary according to the function, configuration, and terms of each service provider.
+
+12. USER RIGHTS AND CHOICES
+Users have options for managing information used by SwipeFeed, including:
+- Changing profile information through profile settings.
+- Changing topic and RSS source preferences.
+- Removing saved or liked articles.
+- Changing personalization settings.
+- Managing notification permissions through device settings.
+- Connecting or disconnecting Google Drive Sync.
+- Contacting the operator with privacy questions or requests.
+
+Users can also manage the app's access to their Google Account through Google Account security settings.
+
+Requests concerning data held by third-party services may need to be submitted directly to those service providers.
+
+13. CHILDREN'S PRIVACY
+SwipeFeed is not specifically designed as a service directed at children.
+
+Users who have not reached the age threshold established by the laws in their region must use the app in accordance with applicable law and with parental or guardian consent where required.
+
+14. CHANGES TO THIS PRIVACY POLICY
+This Privacy Policy may be updated from time to time to reflect changes to app features, third-party services, information-management practices, or applicable legal requirements.
+
+Changes may be communicated through the app or the official SwipeFeed website where appropriate.
+
+The latest update date will be shown at the beginning of this document.
+
+15. CONTACT
+For questions, feedback, or requests concerning this Privacy Policy and the handling of personal information, contact the SwipeFeed operator:
+
+App: SwipeFeed
+Email: swipefeed.support@gmail.com
+Website: https://swipefeed.app
+
+By using SwipeFeed, you acknowledge that you have read and understood this Privacy Policy.
