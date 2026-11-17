@@ -51,3 +51,214 @@
  .contact-about p{font-size:14px;line-height:1.75;margin-bottom:13px}
 }
 @media(min-width:681px) and (max-width:900px){.contact-card{padding:34px}.contact-method-copy strong{font-size:22px}.contact-method-copy>span{font-size:17px}}
+
+
+/* Contact page hardening: scoped selectors + explicit SVG sizing */
+.contact-wrap.contact-wrap {
+  width: min(1080px, calc(100% - 48px));
+  max-width: 1080px;
+  margin-inline: auto;
+  padding: 54px 0 88px;
+}
+.contact-wrap .contact-card {
+  display: block !important;
+  width: 100%;
+  padding: 42px 44px 46px !important;
+  border: 1px solid #e8e9eb !important;
+  border-radius: 28px !important;
+  background: #fff !important;
+  box-shadow: 0 18px 55px rgba(28,30,35,.055) !important;
+}
+.contact-wrap .contact-card-heading {
+  display: flex !important;
+  align-items: center !important;
+  gap: 28px !important;
+  margin: 0 0 38px !important;
+}
+.contact-wrap .contact-symbol {
+  width: 96px !important;
+  height: 96px !important;
+  flex: 0 0 96px !important;
+  display: grid !important;
+  place-items: center !important;
+  border-radius: 27px !important;
+  background: #fff0e5 !important;
+  color: #ff6900 !important;
+  font-size: initial !important;
+}
+.contact-wrap .contact-symbol svg {
+  display: block !important;
+  width: 52px !important;
+  height: 52px !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
+.contact-wrap .contact-heading-copy { min-width: 0; }
+.contact-wrap .contact-heading-copy h1 {
+  margin: 0 0 9px !important;
+  color: #17191d !important;
+  font: 800 clamp(25px,3vw,34px)/1.25 Manrope,sans-serif !important;
+  letter-spacing: -1.1px !important;
+}
+.contact-wrap .contact-heading-copy p {
+  margin: 0 !important;
+  color: #69717c !important;
+  font: 400 16px/1.65 'DM Sans',Arial,sans-serif !important;
+}
+.contact-wrap .contact-methods {
+  display: grid !important;
+  grid-template-columns: 1fr !important;
+  gap: 18px !important;
+}
+.contact-wrap a.contact-method {
+  display: flex !important;
+  align-items: center !important;
+  gap: 28px !important;
+  width: 100% !important;
+  min-height: 112px !important;
+  padding: 18px 22px !important;
+  border: 1px solid #e8e9eb !important;
+  border-radius: 20px !important;
+  background: #fff !important;
+  color: #17191d !important;
+  text-decoration: none !important;
+  box-shadow: none !important;
+  transform: none !important;
+}
+.contact-wrap a.contact-method:hover {
+  border-color: #ffd2b5 !important;
+  box-shadow: 0 8px 24px rgba(28,30,35,.045) !important;
+}
+.contact-wrap .contact-method-icon {
+  display: grid !important;
+  place-items: center !important;
+  width: 76px !important;
+  height: 76px !important;
+  flex: 0 0 76px !important;
+  border-radius: 23px !important;
+  background: #fff0e5 !important;
+  color: #ff6900 !important;
+  font-size: initial !important;
+}
+.contact-wrap .contact-method-icon svg {
+  display: block !important;
+  width: 42px !important;
+  height: 42px !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
+  overflow: visible !important;
+}
+.contact-wrap .contact-method-copy {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  justify-content: center !important;
+  gap: 5px !important;
+  min-width: 0 !important;
+}
+.contact-wrap .contact-method-copy strong {
+  display: block !important;
+  margin: 0 !important;
+  color: #17191d !important;
+  font: 800 25px/1.25 Manrope,sans-serif !important;
+  letter-spacing: -.5px !important;
+}
+.contact-wrap .contact-method-copy > span {
+  display: block !important;
+  margin: 0 !important;
+  color: #17191d !important;
+  font: 400 19px/1.5 'DM Sans',Arial,sans-serif !important;
+  overflow-wrap: anywhere !important;
+}
+.contact-wrap .contact-external {
+  display: inline !important;
+  color: #ff6900 !important;
+  font-size: 22px !important;
+  margin-left: 5px !important;
+}
+.contact-wrap .contact-about {
+  padding: 62px 4px 0 !important;
+}
+.contact-wrap .contact-about h2 {
+  margin: 0 0 22px !important;
+  color: #17191d !important;
+  font: 800 clamp(27px,3vw,35px)/1.25 Manrope,sans-serif !important;
+  letter-spacing: -1px !important;
+}
+.contact-wrap .contact-about p {
+  margin: 0 0 17px !important;
+  color: #69717c !important;
+  font: 400 17px/1.75 'DM Sans',Arial,sans-serif !important;
+}
+@media (max-width: 680px) {
+  .contact-wrap.contact-wrap {
+    width: calc(100% - 36px);
+    padding: 34px 0 64px;
+  }
+  .contact-wrap .contact-card {
+    padding: 27px 22px 24px !important;
+    border-radius: 23px !important;
+  }
+  .contact-wrap .contact-card-heading {
+    align-items: flex-start !important;
+    gap: 17px !important;
+    margin-bottom: 26px !important;
+  }
+  .contact-wrap .contact-symbol {
+    width: 66px !important;
+    height: 66px !important;
+    flex-basis: 66px !important;
+    border-radius: 19px !important;
+  }
+  .contact-wrap .contact-symbol svg {
+    width: 37px !important;
+    height: 37px !important;
+  }
+  .contact-wrap .contact-heading-copy h1 {
+    font-size: 22px !important;
+    letter-spacing: -.65px !important;
+    margin: 1px 0 7px !important;
+  }
+  .contact-wrap .contact-heading-copy p {
+    font-size: 13px !important;
+    line-height: 1.6 !important;
+  }
+  .contact-wrap .contact-methods { gap: 12px !important; }
+  .contact-wrap a.contact-method {
+    min-height: 82px !important;
+    gap: 16px !important;
+    padding: 12px 13px !important;
+    border-radius: 17px !important;
+  }
+  .contact-wrap .contact-method-icon {
+    width: 54px !important;
+    height: 54px !important;
+    flex-basis: 54px !important;
+    border-radius: 16px !important;
+  }
+  .contact-wrap .contact-method-icon svg {
+    width: 31px !important;
+    height: 31px !important;
+  }
+  .contact-wrap .contact-method-copy { gap: 3px !important; }
+  .contact-wrap .contact-method-copy strong {
+    font-size: 17px !important;
+    letter-spacing: -.2px !important;
+  }
+  .contact-wrap .contact-method-copy > span {
+    font-size: 14px !important;
+    line-height: 1.45 !important;
+  }
+  .contact-wrap .contact-external { font-size: 17px !important; }
+  .contact-wrap .contact-about { padding: 39px 4px 0 !important; }
+  .contact-wrap .contact-about h2 {
+    font-size: 24px !important;
+    letter-spacing: -.6px !important;
+    margin-bottom: 13px !important;
+  }
+  .contact-wrap .contact-about p {
+    font-size: 14px !important;
+    line-height: 1.75 !important;
+    margin-bottom: 13px !important;
+  }
+}
