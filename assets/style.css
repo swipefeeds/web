@@ -39,3 +39,104 @@
  .contact-note h2{font-size:21px}
  .contact-note p{font-size:13px}
 }
+
+
+/* Contact page typography and alignment refinement */
+.contact-card {
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+.contact-card-content,
+.contact-method-details {
+  min-width: 0;
+}
+.contact-section-title,
+.contact-card h2.contact-section-title {
+  font-family: Manrope, sans-serif;
+  font-size: 26px;
+  line-height: 1.35;
+  font-weight: 800;
+  letter-spacing: -0.65px;
+  margin: 2px 0 22px;
+}
+.contact-methods {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.contact-method {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+.contact-method-icon {
+  width: 28px;
+  height: 28px;
+  flex: 0 0 28px;
+  display: grid;
+  place-items: center;
+  font-size: 20px;
+  line-height: 1;
+}
+.contact-method-details {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start;
+  gap: 4px;
+}
+.contact-method .contact-label {
+  display: block;
+  font-family: 'DM Sans', Arial, sans-serif;
+  font-size: 13px;
+  line-height: 1.4;
+  font-weight: 700;
+  letter-spacing: .35px;
+  color: var(--muted);
+}
+.contact-method .contact-value {
+  display: block;
+  font-family: 'DM Sans', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+  font-weight: 400;
+  color: var(--ink);
+  overflow-wrap: anywhere;
+}
+.contact-note {
+  padding: 34px 8px 0;
+}
+.contact-note h2 {
+  font-family: Manrope, sans-serif;
+  font-size: 26px;
+  line-height: 1.35;
+  font-weight: 800;
+  letter-spacing: -.65px;
+  margin: 0 0 12px;
+}
+.contact-note p {
+  font-family: 'DM Sans', Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: var(--muted);
+  margin: 0 0 12px;
+}
+@media (max-width: 680px) {
+  .contact-card {
+    grid-template-columns: 1fr;
+    gap: 17px;
+    padding: 25px;
+  }
+  .contact-section-title,
+  .contact-card h2.contact-section-title,
+  .contact-note h2 {
+    font-size: 22px;
+  }
+  .contact-methods { gap: 18px; }
+  .contact-method .contact-label { font-size: 12px; }
+  .contact-method .contact-value { font-size: 15px; }
+  .contact-note { padding: 28px 0 0; }
+  .contact-note p { font-size: 14px; }
+}
