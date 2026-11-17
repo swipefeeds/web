@@ -10,133 +10,44 @@
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 
 
-/* Contact page layout */
-.contact-wrap{max-width:900px}
-.contact-card{display:grid;grid-template-columns:72px minmax(0,1fr);align-items:start;gap:28px;padding:38px}
-.contact-card-content{min-width:0}
-.contact-symbol{width:64px;height:64px;display:grid;place-items:center;flex:0 0 64px}
-.contact-section-title,.contact-note h2{font:800 clamp(21px,2.5vw,26px)/1.35 Manrope,sans-serif;letter-spacing:-.65px;color:var(--ink)}
-.contact-section-title{margin:2px 0 24px}
-.contact-methods{display:flex;flex-direction:column;gap:22px}
-.contact-method{display:flex;align-items:center;gap:15px;min-width:0}
-.contact-method-icon{width:30px;height:30px;flex:0 0 30px;display:grid;place-items:center;color:var(--orange);font-size:22px;line-height:1}
-.contact-method-details{display:flex!important;flex-direction:column!important;align-items:flex-start;gap:3px;min-width:0}
-.contact-method .contact-label{display:block;font-size:12px;line-height:1.4;letter-spacing:.7px;color:var(--muted);font-weight:700}
-.contact-value{display:inline-block;max-width:100%;font-size:15px;line-height:1.55;color:var(--ink);overflow-wrap:anywhere;text-decoration:none;transition:color .2s}
-.contact-value:hover{color:var(--orange)}
-.contact-note{padding:36px 8px 0}
-.contact-note h2{margin:0 0 12px}
-.contact-note p{font-size:14px;line-height:1.8;color:var(--muted);margin:0 0 12px}
+/* Contact page — approved contact-card layout */
+.contact-wrap{max-width:1080px;padding-block:54px 88px}
+.contact-card{display:block;border:1px solid #e8e9eb;border-radius:28px;padding:42px 44px 46px;background:#fff;box-shadow:0 18px 55px rgba(28,30,35,.055)}
+.contact-card-heading{display:flex;align-items:center;gap:28px;margin-bottom:38px}
+.contact-symbol{width:96px;height:96px;flex:0 0 96px;border-radius:27px;background:#fff0e5;color:var(--orange);display:grid;place-items:center}
+.contact-symbol svg{width:52px;height:52px}
+.contact-heading-copy h1{font:800 clamp(25px,3vw,34px)/1.25 Manrope,sans-serif;letter-spacing:-1.1px;margin:0 0 9px;color:var(--ink)}
+.contact-heading-copy p{font-size:16px;line-height:1.65;color:var(--muted);margin:0}
+.contact-methods{display:grid;gap:18px}
+.contact-method{display:flex;align-items:center;gap:28px;min-height:112px;padding:18px 22px;border:1px solid #e8e9eb;border-radius:20px;background:#fff;transition:border-color .18s,box-shadow .18s,transform .18s}
+.contact-method:hover{border-color:#ffd2b5;box-shadow:0 8px 24px rgba(28,30,35,.045);transform:translateY(-1px)}
+.contact-method-icon{width:76px;height:76px;flex:0 0 76px;border-radius:23px;background:#fff0e5;color:var(--orange);display:grid;place-items:center}
+.contact-method-icon svg{width:42px;height:42px}
+.contact-method-copy{display:flex;flex-direction:column;gap:5px;min-width:0}
+.contact-method-copy strong{font:800 25px/1.25 Manrope,sans-serif;letter-spacing:-.5px;color:var(--ink)}
+.contact-method-copy>span{font:400 19px/1.5 'DM Sans',Arial,sans-serif;color:var(--ink);overflow-wrap:anywhere}
+.contact-external{color:var(--orange);font-size:22px;margin-left:5px}
+.contact-about{padding:62px 4px 0}
+.contact-about h2{font:800 clamp(27px,3vw,35px)/1.25 Manrope,sans-serif;letter-spacing:-1px;color:var(--ink);margin:0 0 22px}
+.contact-about p{font:400 17px/1.75 'DM Sans',Arial,sans-serif;color:var(--muted);margin:0 0 17px}
 @media(max-width:680px){
- .contact-wrap{padding-block:55px 70px}
- .contact-card{grid-template-columns:1fr;gap:18px;padding:25px}
- .contact-symbol{width:56px;height:56px;flex-basis:56px}
- .contact-section-title{font-size:21px;margin:0 0 20px}
- .contact-methods{gap:19px}
- .contact-method{gap:13px}
- .contact-value{font-size:14px}
- .contact-note{padding:29px 0 0}
- .contact-note h2{font-size:21px}
- .contact-note p{font-size:13px}
+ .contact-wrap{padding-block:34px 64px;max-width:100%}
+ .contact-card{padding:27px 22px 24px;border-radius:23px}
+ .contact-card-heading{align-items:flex-start;gap:17px;margin-bottom:26px}
+ .contact-symbol{width:66px;height:66px;flex-basis:66px;border-radius:19px}
+ .contact-symbol svg{width:37px;height:37px}
+ .contact-heading-copy h1{font-size:22px;letter-spacing:-.65px;margin:1px 0 7px}
+ .contact-heading-copy p{font-size:13px;line-height:1.6}
+ .contact-methods{gap:12px}
+ .contact-method{min-height:82px;gap:16px;padding:12px 13px;border-radius:17px}
+ .contact-method-icon{width:54px;height:54px;flex-basis:54px;border-radius:16px}
+ .contact-method-icon svg{width:31px;height:31px}
+ .contact-method-copy{gap:3px}
+ .contact-method-copy strong{font-size:17px;letter-spacing:-.2px}
+ .contact-method-copy>span{font-size:14px;line-height:1.45}
+ .contact-external{font-size:17px}
+ .contact-about{padding:39px 4px 0}
+ .contact-about h2{font-size:24px;letter-spacing:-.6px;margin-bottom:13px}
+ .contact-about p{font-size:14px;line-height:1.75;margin-bottom:13px}
 }
-
-
-/* Contact page typography and alignment refinement */
-.contact-card {
-  grid-template-columns: 64px minmax(0, 1fr);
-  gap: 24px;
-  align-items: start;
-}
-.contact-card-content,
-.contact-method-details {
-  min-width: 0;
-}
-.contact-section-title,
-.contact-card h2.contact-section-title {
-  font-family: Manrope, sans-serif;
-  font-size: 26px;
-  line-height: 1.35;
-  font-weight: 800;
-  letter-spacing: -0.65px;
-  margin: 2px 0 22px;
-}
-.contact-methods {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-.contact-method {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  min-width: 0;
-}
-.contact-method-icon {
-  width: 28px;
-  height: 28px;
-  flex: 0 0 28px;
-  display: grid;
-  place-items: center;
-  font-size: 20px;
-  line-height: 1;
-}
-.contact-method-details {
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: flex-start;
-  gap: 4px;
-}
-.contact-method .contact-label {
-  display: block;
-  font-family: 'DM Sans', Arial, sans-serif;
-  font-size: 13px;
-  line-height: 1.4;
-  font-weight: 700;
-  letter-spacing: .35px;
-  color: var(--muted);
-}
-.contact-method .contact-value {
-  display: block;
-  font-family: 'DM Sans', Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.55;
-  font-weight: 400;
-  color: var(--ink);
-  overflow-wrap: anywhere;
-}
-.contact-note {
-  padding: 34px 8px 0;
-}
-.contact-note h2 {
-  font-family: Manrope, sans-serif;
-  font-size: 26px;
-  line-height: 1.35;
-  font-weight: 800;
-  letter-spacing: -.65px;
-  margin: 0 0 12px;
-}
-.contact-note p {
-  font-family: 'DM Sans', Arial, sans-serif;
-  font-size: 15px;
-  line-height: 1.8;
-  font-weight: 400;
-  color: var(--muted);
-  margin: 0 0 12px;
-}
-@media (max-width: 680px) {
-  .contact-card {
-    grid-template-columns: 1fr;
-    gap: 17px;
-    padding: 25px;
-  }
-  .contact-section-title,
-  .contact-card h2.contact-section-title,
-  .contact-note h2 {
-    font-size: 22px;
-  }
-  .contact-methods { gap: 18px; }
-  .contact-method .contact-label { font-size: 12px; }
-  .contact-method .contact-value { font-size: 15px; }
-  .contact-note { padding: 28px 0 0; }
-  .contact-note p { font-size: 14px; }
-}
+@media(min-width:681px) and (max-width:900px){.contact-card{padding:34px}.contact-method-copy strong{font-size:22px}.contact-method-copy>span{font-size:17px}}
